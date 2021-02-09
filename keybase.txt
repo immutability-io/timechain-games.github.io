@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/timechaing
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://timechain.games
+  * I am timechaing (https://keybase.io/timechaing) on keybase.
+  * I have a public key ASCMkDNlEj5pgjLE1W3-t2XK_dDURUZ4RFVGbAcoNmaxuQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208c903365123e698232c4d56dfeb765cafdd0d44546784455466c07283666b1b90a",
+      "host": "keybase.io",
+      "kid": "01208c903365123e698232c4d56dfeb765cafdd0d44546784455466c07283666b1b90a",
+      "uid": "46579f5a2818ee3c8e5830e263abad19",
+      "username": "timechaing"
+    },
+    "merkle_root": {
+      "ctime": 1612904200,
+      "hash": "2a50b68c71e51457e50e978ca02d55c7dde5d4bf04be901cd131ff18a8933a166283d0fd6e27a6f600695fe27f1ac6924292cfb40883425b0a99884cef317328",
+      "hash_meta": "8ad1532df22544792d3e7c2772de9677deec4439766ac4346bce5cd6d9927ed4",
+      "seqno": 19062637
+    },
+    "service": {
+      "entropy": "JbsUmxp7s1N8Q7g8+CCnWMj3",
+      "hostname": "timechain.games",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1612904223,
+  "expire_in": 504576000,
+  "prev": "f0fc6879ad28ddac52d5527eed30dd237597073818cb19147c03158c10937637",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjJAzZRI+aYIyxNVt/rdlyv3Q1EVGeERVRmwHKDZmsbkKp3BheWxvYWTESpcCB8Qg8Pxoea0o3axS1VJ+7TDdI3WXBzgYyxkUfAMVjBCTdjfEINTpPzeJttVkfueiTl+Bz5wbz4S5kIh82yg2uixVThPzAgHCo3NpZ8RAciYcyuFEBCutG3LtDec2Ue5mKwaEC+cdj0YCmYCawCbGokHqeoIyYEv4bZJi/gfOVgqZ6rcYhzTOFT3aTV64AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGlCCkg6kWO529q/ngEvsKOoyhdELcURCfwsZcOdrP1Lo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/timechaing
+
+==================================================================
